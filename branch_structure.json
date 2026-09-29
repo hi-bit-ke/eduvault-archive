@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-884-eduvault-build-permission-diff-preview-for-role",
+    "fix/issue-893-eduvault-create-incident-impact-calculator-for",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-884-eduvault-build-permission-diff-preview-for-role": "main",
+    "fix/issue-893-eduvault-create-incident-impact-calculator-for": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-884-eduvault-build-permission-diff-preview-for-role",
+    "fix/issue-893-eduvault-create-incident-impact-calculator-for",
+    "origin"
+  ]
+}
